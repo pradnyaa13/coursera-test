@@ -1,2 +1,2 @@
-# coursera-test
-coursera test repository
+Module 2 assignment completed
+
